@@ -1,21 +1,10 @@
 # .NET
 bin/
 obj/
-*.user
-*.suo
 
 # React
 node_modules/
 build/
-
-# VS Code
-.vscode/
-
-# Logs
-*.log
-
-# Env
-.env
 
 # Azure
 local.settings.json
