@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="StudentManagementAPI.Tests/StudentManagementAPI.Tests.csproj" />
+  <Project Path="StudentManagementAPI/StudentManagementAPI.csproj" />
+  <Project Path="StudentManagementAzureFunctions/StudentManagementAzureFunctions.csproj" Id="e2f383fd-6c21-4e3e-a814-1ad09cdbcaaa" />
+</Solution>

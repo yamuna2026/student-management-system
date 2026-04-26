@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementazurefunctions\\servicebustrigger\\servicebustrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|solutionrelative:studentmanagementazurefunctions\\servicebustrigger\\servicebustrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementazurefunctions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|solutionrelative:studentmanagementazurefunctions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\studentmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\studentmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementazurefunctions\\studenthttpfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|solutionrelative:studentmanagementazurefunctions\\studenthttpfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementazurefunctions\\studentmanagementazurefunctions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|solutionrelative:studentmanagementazurefunctions\\studentmanagementazurefunctions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementazurefunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|solutionrelative:studentmanagementazurefunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementazurefunctions\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F383FD-6C21-4E3E-A814-1AD09CDBCAAA}|StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj|solutionrelative:studentmanagementazurefunctions\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\managers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\managers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\managers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\managers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\models\\apirespose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\models\\apirespose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8CA330-D59C-50A0-1141-D08392DF8A15}|StudentManagementAPI.Tests\\StudentManagementAPI.Tests.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi.tests\\authmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8CA330-D59C-50A0-1141-D08392DF8A15}|StudentManagementAPI.Tests\\StudentManagementAPI.Tests.csproj|solutionrelative:studentmanagementapi.tests\\authmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8CA330-D59C-50A0-1141-D08392DF8A15}|StudentManagementAPI.Tests\\StudentManagementAPI.Tests.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi.tests\\studentmanagementapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B8CA330-D59C-50A0-1141-D08392DF8A15}|StudentManagementAPI.Tests\\StudentManagementAPI.Tests.csproj|solutionrelative:studentmanagementapi.tests\\studentmanagementapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\managers\\istudentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\managers\\istudentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\managers\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\managers\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\yamuna.bathi\\source\\repos\\studentmanagementapi\\studentmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1DD3E1B-9923-2955-DE98-718F4C64CD77}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 159,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\local.settings.json",
+              "RelativeDocumentMoniker": "StudentManagementAzureFunctions\\local.settings.json",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\local.settings.json",
+              "RelativeToolTip": "StudentManagementAzureFunctions\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T17:39:37.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceBusTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\ServiceBusTrigger\\ServiceBusTrigger.cs",
+              "RelativeDocumentMoniker": "StudentManagementAzureFunctions\\ServiceBusTrigger\\ServiceBusTrigger.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\ServiceBusTrigger\\ServiceBusTrigger.cs*",
+              "RelativeToolTip": "StudentManagementAzureFunctions\\ServiceBusTrigger\\ServiceBusTrigger.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:36:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentHttpFunction.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\StudentHttpFunction.cs",
+              "RelativeDocumentMoniker": "StudentManagementAzureFunctions\\StudentHttpFunction.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\StudentHttpFunction.cs",
+              "RelativeToolTip": "StudentManagementAzureFunctions\\StudentHttpFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T06:18:58.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\Function1.cs",
+              "RelativeDocumentMoniker": "StudentManagementAzureFunctions\\Function1.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\Function1.cs",
+              "RelativeToolTip": "StudentManagementAzureFunctions\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:18:24.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentManagementAzureFunctions.csproj",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj",
+              "RelativeDocumentMoniker": "StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj",
+              "RelativeToolTip": "StudentManagementAzureFunctions\\StudentManagementAzureFunctions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T10:30:04.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\StudentManagementAPI.csproj",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\StudentManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\StudentManagementAPI.csproj",
+              "RelativeToolTip": "StudentManagementAPI\\StudentManagementAPI.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAEwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T18:03:47.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementAzureFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAzureFunctions\\Program.cs",
+              "RelativeToolTip": "StudentManagementAzureFunctions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:25:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:02:56.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Managers\\StudentManager.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Managers\\StudentManager.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Managers\\StudentManager.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Managers\\StudentManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:59:58.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:46:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwFUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:50:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:45:46.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T16:08:25.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Managers\\AuthManager.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Managers\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Managers\\AuthManager.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Managers\\AuthManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:44:55.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\appsettings.json",
+              "RelativeToolTip": "StudentManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T17:45:22.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiRespose.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Models\\ApiRespose.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Models\\ApiRespose.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Models\\ApiRespose.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Models\\ApiRespose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:47:42.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI.Tests\\AuthManagerTests.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI.Tests\\AuthManagerTests.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI.Tests\\AuthManagerTests.cs",
+              "RelativeToolTip": "StudentManagementAPI.Tests\\AuthManagerTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:03:32.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentManagementAPI.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI.Tests\\StudentManagementAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "StudentManagementAPI.Tests\\StudentManagementAPI.Tests.csproj",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI.Tests\\StudentManagementAPI.Tests.csproj",
+              "RelativeToolTip": "StudentManagementAPI.Tests\\StudentManagementAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T15:55:06.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Data\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Data\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Data\\StudentDbContext.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Data\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:50:19.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:06:41.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Managers\\IStudentManager.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Managers\\IStudentManager.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Managers\\IStudentManager.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Managers\\IStudentManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:59:27.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Managers\\IAuthManager.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Managers\\IAuthManager.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Managers\\IAuthManager.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Managers\\IAuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:44:19.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Services\\JwtService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:42:02.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Services\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Services\\IJwtService.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:41:08.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "StudentManagementAPI\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:33:52.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\DTOs\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\DTOs\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\DTOs\\UpdateStudentDto.cs",
+              "RelativeToolTip": "StudentManagementAPI\\DTOs\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:48:59.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "StudentManagementAPI\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:49:30.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\DTOs\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\DTOs\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\DTOs\\CreateStudentDto.cs",
+              "RelativeToolTip": "StudentManagementAPI\\DTOs\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:48:25.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\yamuna.bathi\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:47:01.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

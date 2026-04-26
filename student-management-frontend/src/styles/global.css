@@ -1,0 +1,67 @@
+/* 🌙 DARK MODE (DEFAULT) */
+:root {
+  --bg: #0b0f1a;
+  --card: #121826;
+  --text: #e5e7eb;
+  --primary: #6366f1;
+  --border: #1f2937;
+}
+
+/* ☀️ LIGHT MODE */
+body.light {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --text: #111827;
+  --primary: #4f46e5;
+  --border: #e5e7eb;
+}
+
+/* 🌍 GLOBAL RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 🌍 BODY */
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Inter", sans-serif;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* 🔘 BUTTON DEFAULT */
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+/* ✏️ INPUT */
+input {
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+  padding: 10px;
+  border-radius: 6px;
+  outline: none;
+  transition: 0.2s;
+}
+
+input:focus {
+  border-color: var(--primary);
+}
+
+/* 🧊 CARD COMMON STYLE */
+.card {
+  background: var(--card);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* ✨ SMOOTH SCROLL */
+html {
+  scroll-behavior: smooth;
+}

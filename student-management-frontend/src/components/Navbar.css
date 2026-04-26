@@ -1,0 +1,92 @@
+/* 🔥 NAVBAR MAIN */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  padding: 14px 32px;
+
+  background: rgba(15, 23, 42, 0.75); /* better glass */
+  backdrop-filter: blur(10px);
+
+  border-bottom: 1px solid var(--border);
+}
+
+/* LEFT */
+.nav-left {
+  display: flex;
+  align-items: center;
+}
+
+/* LOGO */
+.logo {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: 1px;
+}
+
+/* RIGHT */
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* COMMON BUTTON */
+.navbar button {
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 14px;
+
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+/* THEME BUTTON */
+.theme-btn {
+  font-size: 16px;
+}
+
+/* LOGOUT BUTTON */
+.logout-btn {
+  background: var(--primary);
+  color: white;
+  border: none;
+}
+
+/* HOVER */
+.navbar button:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+/* CLICK */
+.navbar button:active {
+  transform: scale(0.95);
+}
+
+/* 📱 MOBILE */
+@media (max-width: 600px) {
+  .navbar {
+    padding: 10px 16px;
+  }
+
+  .logo {
+    font-size: 18px;
+  }
+
+  .navbar button {
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+}

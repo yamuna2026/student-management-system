@@ -1,0 +1,44 @@
+.home-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #020617, #0f172a);
+  text-align: center;
+  padding: 60px;
+}
+
+.home-title {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+.home-grid {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.glass {
+  width: 300px;
+  padding: 25px;
+  border-radius: 16px;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(10px);
+}
+
+.glass input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.1);
+  color: white;
+}
+
+.glass button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  background: #6366f1;
+  border: none;
+  border-radius: 8px;
+}

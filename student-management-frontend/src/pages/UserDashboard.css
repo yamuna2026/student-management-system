@@ -1,0 +1,78 @@
+/* 🌍 MAIN PAGE */
+.user-dashboard {
+  background: var(--bg);
+  min-height: 100vh;
+  color: var(--text);
+}
+
+/* 📦 CENTER CONTENT */
+.search-box {
+  max-width: 600px;
+  margin: 120px auto 0 auto; /* center horizontally */
+  text-align: center;
+}
+
+/* 🔍 TITLE */
+.search-box h2 {
+  font-size: 28px;
+  margin-bottom: 25px;
+}
+
+/* 🔍 SEARCH BAR */
+.search {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+/* ✏️ INPUT */
+.search input {
+  padding: 12px;
+  width: 260px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--text);
+}
+
+/* 🔘 BUTTON */
+.search button {
+  padding: 12px 18px;
+  background: var(--primary);
+  color: white;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.search button:hover {
+  transform: translateY(-2px);
+}
+
+/* 🎴 STUDENT CARD */
+.student-card {
+  margin: 30px auto 0 auto;
+  background: var(--card);
+  padding: 25px;
+  border-radius: 12px;
+  text-align: left;
+  width: 280px;
+}
+
+/* 🏷 LABEL */
+.student-card span {
+  font-weight: 600;
+  color: var(--primary);
+}
+
+/* 🔔 TOAST */
+.toast {
+  position: fixed;
+  top: 80px;
+  right: 20px;
+  background: #22c55e;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
